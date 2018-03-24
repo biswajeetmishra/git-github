@@ -1,3 +1,7 @@
 Hi, THis is my test file.
+<<<<<<< HEAD
 
 I have modified this locally now.
+=======
+I am modifying this file at the source.
+>>>>>>> 0f03f77d38f60681adac2cea677c832242e1f5f1
